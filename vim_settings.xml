@@ -1,0 +1,81 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/GitHub/Hollidays/src/hollidays/Logic.java" timestamp="1510062199674">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510062505157">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/GitHub/Hollidays/src/hollidays/Hollidays.java" timestamp="1510062241023">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/GitHub/Hollidays/src/hollidays/ProgrammWindow.java" timestamp="1510062493441">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text>/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8qKgogKgogKiBAYXV0aG9yIG1pa2hhaWwuYm9tYmluCiAqLw==</text>
+      </register>
+      <register name="3" type="4">
+        <text>/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ci8qKgogKgogKiBAYXV0aG9yIG1pa2hhaWwuYm9tYmluCiAqLw==</text>
+      </register>
+      <register name="5" type="4">
+        <text>/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */</text>
+      </register>
+      <register name="-" type="4">
+        <text>p</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
